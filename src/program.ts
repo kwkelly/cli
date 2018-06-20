@@ -530,7 +530,6 @@ export class Program {
             }
         }
         process.exitCode = 0;
-
     }
 
     private getJson(obj: any): string {
